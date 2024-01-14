@@ -3,6 +3,29 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="240">
 
 
+</p> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
+</p>
+## 🚀 About Me
+
+
+
+- 🏢 I'm a Data Scientist ...
+- 👨‍💻 As a AI student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with Machine Learning , Deep Learning , Python , and Power BI , or anything related to Artificial Intelligence.
+- ⚡  Fun Fact: I'm a Tea enthusiast and my perfect day would start and end with a cup of Tea.
+
+
+
+
+### Connect with Me :
+
+<a href="https://linkedin.com/in/abdelhalimashraf" target="_blank"><img src="https://img.shields.io/badge/-Abdelhalim%20Ashraf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://wa.me/y01141441497" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:abdo78ashraf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.kaggle.com/yabdoashraf90" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+
 
 
 
@@ -18,6 +41,7 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL%20-05122A?style=flat&logo=postgresql)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook%20-05122A?style=flat&logo=jupyter)
+
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning%20-05122A?style=flat&logo=python)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning%20-05122A?style=flat&logo=tensorflow)
 ![Power BI](https://img.shields.io/badge/-Power%20BI%20-05122A?style=flat&logo=powerbi)
@@ -31,7 +55,12 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ABDELHALIM9&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
+
 <a href="https://komarev.com/ghpvc/?username=ABDELHALIM9&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=ABDELHALIM9&style=for-the-badge">
 </a>
+
+
+
+
+
