@@ -3,11 +3,10 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="240">
 
-
-</p> 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
+  <img src="https://readme-typing-svg.demolab.com?lines=%D9%88%D9%8E+%D9%82%D9%8F%D9%84%D9%92+%D8%B1%D9%8E%D8%A8%D9%91%D9%90+%D8%B2%D9%90%D8%AF%D9%92%D9%86%D9%8A+%D8%B9%D9%90%D9%84%D9%92%D9%85%D9%8B%D8%A7+%D9%82%D8%A7%D9%84+%D8%AA%D8%B9%D8%A7%D9%84%D9%89&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=000000" />
 </p>
+
 
 ## 🚀 About Me
 
